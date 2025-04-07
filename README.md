@@ -139,8 +139,6 @@ int buscarAlunoPorRGM(int rgm) {
 }
 ```
 
-**Complexidade:** O(n)
-
 ### 5.2 `inserirAlunoOrdenado`
 
 ```c
